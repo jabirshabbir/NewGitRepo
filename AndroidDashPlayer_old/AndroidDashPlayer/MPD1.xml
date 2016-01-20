@@ -1,0 +1,26 @@
+<Root>
+<Template>
+<BasePath>www.a3x.com</BasePath>
+<QualitiesFolder>
+<High>HighQ</High>
+<Medium>MedQ</Medium>
+<Low>LowQ</Low>
+</QualitiesFolder>
+</Template>
+<SegmentsPath>
+<Segment value="seg1">
+<SegmentQuality>
+<High>Jabir</High>
+<Medium>qazwsx</Medium>
+<Low>5678</Low>
+</SegmentQuality>
+</Segment>
+<Segment value="seg2">
+<SegmentQuality>
+<High>43456</High>
+<Medium>22345</Medium>
+<Low>7678</Low>
+</SegmentQuality>
+</Segment>
+</SegmentsPath>
+</Root>

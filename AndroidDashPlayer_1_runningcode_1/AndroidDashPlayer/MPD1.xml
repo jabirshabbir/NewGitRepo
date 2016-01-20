@@ -1,0 +1,54 @@
+<Root>
+<Template>
+<BasePath>http://pilatus.d1.comp.nus.edu.sg/~team06/video_repo</BasePath>
+<QualitiesFolder>
+<High>High</High>
+<Medium>Mid</Medium>
+<Low>Low</Low>
+</QualitiesFolder>
+</Template>
+<SegmentsPath>
+<Segment value="Seg1.mp4">
+<SegmentQuality>
+<High>43456</High>
+<Medium>22345</Medium>
+<Low>5678</Low>
+</SegmentQuality>
+</Segment>
+<Segment value="Seg2.mp4">
+<SegmentQuality>
+<High>43456</High>
+<Medium>22345</Medium>
+<Low>7678</Low>
+</SegmentQuality>
+</Segment>
+<Segment value="Seg3.mp4">
+<SegmentQuality>
+<High>43456</High>
+<Medium>22345</Medium>
+<Low>7678</Low>
+</SegmentQuality>
+</Segment>
+<Segment value="Seg4.mp4">
+<SegmentQuality>
+<High>43456</High>
+<Medium>22345</Medium>
+<Low>7678</Low>
+</SegmentQuality>
+</Segment>
+<Segment value="Seg5.mp4">
+<SegmentQuality>
+<High>43456</High>
+<Medium>22345</Medium>
+<Low>7678</Low>
+</SegmentQuality>
+</Segment>
+<Segment value="Seg6.mp4">
+<SegmentQuality>
+<High>43456</High>
+<Medium>22345</Medium>
+<Low>7678</Low>
+</SegmentQuality>
+</Segment>
+</SegmentsPath>
+</Root>
